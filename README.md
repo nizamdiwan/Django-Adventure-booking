@@ -1,1 +1,1 @@
-# Django-Adventure-booking
+# Django - Adventure - booking
